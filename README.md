@@ -17,17 +17,23 @@
 
 <h1 align="center">hey there 👋 I'm Ayush 🙂</h1>
 
-###
+<br>
 
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Ayush from your world.<br><br>- 🔭 I’m working as Frontend Developer.<br>- 📚 I'm currently learning python and AWS cloud computing system.<br>- ⚡ In my free time I used to play E-sports games.</p>
+<h1 align="left">👩‍💻  About Me</h1>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+- 🌱 I’m currently learning **Python, AWS cloud computing system**
+
+- 👨‍💻 Here is the digital version of Me [https://portfolio-ayushsingh.netlify.app/](https://portfolio-ayushsingh.netlify.app/)
+
+- 📫 How to reach me **s14ayush@gmail.com**
+
+- ⚡ Fun fact is that **I am so addicted to do all other things rather than the main thing, and also passionate about my works. Beside that I am also an E-sports gamer with few of my LLS (Low level skills😂).**
+
+<br>
+
+<h1 align="left">🛠 Language and tools</h1>
 
 ###
 
@@ -61,8 +67,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
 </div>
 
-###
+<br>
 
-<h3 align="left">🔥   My Stats :</h3>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=theayush17&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+<br>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=theayush17&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://nirzak-streak-stats.vercel.app/?user=theayush17&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=theayush17&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=theayush17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
 
 ###
